@@ -2,4 +2,4 @@
 my first repo on Github
 var firstName = 'sije'
 var lastName = 'mick'
-const hobbies = 'i love coding'
+const hobbies = 'i love coding'.
